@@ -1,5 +1,6 @@
 CAUSE ANALYSIS: UNDERSTANDING AND APPLYING INTEGRATED DEFENCE IN CYBERSECURITY
 OVERVIEW
+
 A cause analysis is a methodical approach to identifying the root causes or underlying reasons behind a specific event or issue. In cybersecurity, cause analysis helps us address vulnerabilities, prevent recurring incidents, and enhance processes and systems.
 
 OBJECTIVES OF THE TASK
